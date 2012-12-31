@@ -11,6 +11,6 @@ java -jar FSUADownloader.jar "Path to file with links from Fs.ua"
 
 Example:
 
-Look example.jpg
+Look Example.jpg
 
 java -jar FSUADownloader.jar fsua_23321.txt
