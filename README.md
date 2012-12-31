@@ -7,7 +7,7 @@ To run this application from the command line, try:
 
 Compile this project first or use jar from /dist dir
 
-java -jar FSUADownloader.jar <Path to file with links from Fs.ua>
+java -jar FSUADownloader.jar Path to file with links from Fs.ua
 
 Example:
 
